@@ -19,3 +19,14 @@
     padding-bottom: 12px;
   }
 }
+
+.textbox{
+  width: 400px;
+  border: solid black 2px;
+}
+
+ul {
+    padding: 5px;
+    display: inline-block;
+    list-style-type: none;
+}
